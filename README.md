@@ -4,7 +4,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You can never touch your elbow with your tongue.
 
-  ![](https://github-readme-stats.vercel.app/api?username=MasonLiao9&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=MasonLiao319&show_icons=true&theme=dark&count_private=true)
 
 
 
